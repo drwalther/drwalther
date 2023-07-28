@@ -41,7 +41,7 @@
   </div>
 
   ---
-### :fire: My Stats :
+### <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> My GitHub Stats:
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drwalther&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drwalther&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
