@@ -17,13 +17,13 @@
 
 
 ---
-### :man_technologist:About Me :
+## <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNqY2tiYjd5d2toMnF0cWY0eHdkazYwZ3c3bXViajN2czAwYTM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiMBUPZUhUg4HRV6PW/giphy.gif" width = 50px style="border-radius: 50px"> About Me :
+
 - Hi everyone! I am a backend developer from Russia. I was a tax lawyer for several years, but one day I realized how much I love coding
 - Reach me by [LinkedIn](https://www.linkedin.com/in/artemrakhaev/) or [email](mailto:a.u.rahaev@gmail.com) 
 
 ---
-### :hammer_and_wrench: Languages and Tools :
-<div>
+##  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFzN3JiZnczNW9hYnFjNTF4MTE0dGJybDJlajdibjVvbzZoOW55ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width = 50px style="border-radius: 50px"> Languages and Tools:
  
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -41,7 +41,7 @@
   </div>
 
   ---
-### <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> My GitHub Stats:
+## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 50px> My GitHub Stats:
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drwalther&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drwalther&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
