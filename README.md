@@ -20,7 +20,7 @@
 ## <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNqY2tiYjd5d2toMnF0cWY0eHdkazYwZ3c3bXViajN2czAwYTM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiMBUPZUhUg4HRV6PW/giphy.gif" width = 50px style="border-radius: 50px"> About Me :
 
 - Hi everyone! I am a backend developer from Russia. I was a legal analyst for several years, but one day I realized how much I love coding
-- Reach me by [LinkedIn](https://www.linkedin.com/in/artemrakhaev/) or [email](mailto:a.u.rahaev@gmail.com) 
+- Reach me by [LinkedIn](https://www.linkedin.com/in/artemrakhaev/)
 
 ---
 ##  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFzN3JiZnczNW9hYnFjNTF4MTE0dGJybDJlajdibjVvbzZoOW55ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width = 50px style="border-radius: 50px"> Languages and Tools:
