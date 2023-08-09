@@ -49,7 +49,7 @@
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 50px> My GitHub Stats:
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drwalther&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drwalther&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drwalther&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **drwalther/drwalther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
