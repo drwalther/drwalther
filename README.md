@@ -21,14 +21,20 @@
 
 
 ---
-## <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNqY2tiYjd5d2toMnF0cWY0eHdkazYwZ3c3bXViajN2czAwYTM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiMBUPZUhUg4HRV6PW/giphy.gif" width = 50px style="border-radius: 50px"> About Me :
-
-- Hi everyone! I am a backend developer from Russia. I was a legal analyst for several years, but one day I realized how much I love coding
-- Reach me by [LinkedIn](https://www.linkedin.com/in/artemrakhaev/)
+<div>
+  <div align="center">
+ <h2> <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNqY2tiYjd5d2toMnF0cWY0eHdkazYwZ3c3bXViajN2czAwYTM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiMBUPZUhUg4HRV6PW/giphy.gif" width = 50px style="border-radius: 50px"> About Me:</h2>
+  </div>  
+<p>- Hi everyone! I am a backend developer from Russia. I was a legal analyst for several years, but one day I realized how much I love coding</p>
+<p>- Reach me by <a href='https://www.linkedin.com/in/artemrakhaev/'>LinkedIn</a></p>
+</div>
 
 ---
-##  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFzN3JiZnczNW9hYnFjNTF4MTE0dGJybDJlajdibjVvbzZoOW55ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width = 50px style="border-radius: 50px"> Languages and Tools:
- 
+<div>
+  <div align='center'>
+<h2> <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFzN3JiZnczNW9hYnFjNTF4MTE0dGJybDJlajdibjVvbzZoOW55ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width = 50px style="border-radius: 50px"> Languages and Tools:</h2>
+  </div>
+ <div align='center'>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
@@ -46,14 +52,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://parceljs.org/avatar.bf8c558d.png" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
+ </div>
   </div>
 
   ---
-## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 50px> My GitHub Stats:
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drwalther&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drwalther&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <div align='center'>
+<h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 50px style="border-radius: 50px"> My GitHub Stats:</h2>
+  </div>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drwalther&layout=donut&theme=vision-friendly-dark" width="600" height="300"/>
+</div>
+
 <!--
 **drwalther/drwalther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
