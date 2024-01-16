@@ -26,7 +26,7 @@
  <h2>Обо мне</h2>
   </div>  
 <p>Меня зовут Артем, последние 6 лет работаю аналитиком. Увлекаюсь Python с января 2022 года, пишу пет-проекты, решаю  алгоритмические задачки.</p>
-<p>Мой <a href='https://www.linkedin.com/in/artemrakhaev/'>LinkedIn</a></p>
+<!-- <p>Мой <a href='https://www.linkedin.com/in/artemrakhaev/'>LinkedIn</a></p> -->
 </div>
 
 ---
