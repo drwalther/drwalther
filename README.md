@@ -4,7 +4,7 @@
   </a>
 </div> -->
 <div align="center">
-  <h1>Hi there, I'm Artem</h1>
+  <h1>Hello, world!</h1>
 </div>
 
 <div align="center">
@@ -25,14 +25,14 @@
   <div align="center">
  <h2>About Me:</h2>
   </div>  
-<p>- Hi everyone! I am a backend developer from Russia. I was a legal analyst for several years, but one day I realized how much I love coding</p>
-<p>- Reach me by <a href='https://www.linkedin.com/in/artemrakhaev/'>LinkedIn</a></p>
+<p>Последние 6 лет работаю аналитиком, увлекаюсь Python с января 2022 года, периодически пишу пет-проекты, решаю  алгоритмические задачки.</p>
+<p>- Мой <a href='https://www.linkedin.com/in/artemrakhaev/'>LinkedIn</a></p>
 </div>
 
 ---
 <div>
   <div align='center'>
-<h2>Languages and Tools:</h2>
+<h2>Языки и инструменты</h2>
   </div>
  <div align='center'>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
