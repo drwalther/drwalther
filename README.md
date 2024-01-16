@@ -23,7 +23,7 @@
 ---
 <div>
   <div align="center">
- <h2> <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNqY2tiYjd5d2toMnF0cWY0eHdkazYwZ3c3bXViajN2czAwYTM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiMBUPZUhUg4HRV6PW/giphy.gif" width = 50px style="border-radius: 50px"> About Me:</h2>
+ <h2>About Me:</h2>
   </div>  
 <p>- Hi everyone! I am a backend developer from Russia. I was a legal analyst for several years, but one day I realized how much I love coding</p>
 <p>- Reach me by <a href='https://www.linkedin.com/in/artemrakhaev/'>LinkedIn</a></p>
@@ -32,7 +32,7 @@
 ---
 <div>
   <div align='center'>
-<h2> <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFzN3JiZnczNW9hYnFjNTF4MTE0dGJybDJlajdibjVvbzZoOW55ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width = 50px style="border-radius: 50px"> Languages and Tools:</h2>
+<h2>Languages and Tools:</h2>
   </div>
  <div align='center'>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
