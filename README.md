@@ -17,16 +17,6 @@
  </div>
 
 
----
-<div>
-  <div align="center">
- <h2>Обо мне</h2>
-  </div>  
-<p>Меня зовут Артем, много лет проработал юристом. Python увлекся в 2020 году во время пандемии, теперь это часть моей жизни.</p>
-<!-- <p>Мой <a href='https://www.linkedin.com/in/artemrakhaev/'>LinkedIn</a></p> -->
-</div>
-
----
 <div>
   <div align='center'>
 <h2>Языки и инструменты</h2>
